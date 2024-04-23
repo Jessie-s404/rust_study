@@ -4,7 +4,7 @@ fn main() {
 
     println!(
         "The area of the rectangle is {} square pixels.",
-        area(width1,height)
+        area(width1,height1)
     );
 }
 
